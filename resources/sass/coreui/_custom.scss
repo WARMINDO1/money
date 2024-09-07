@@ -1,0 +1,63 @@
+// Here you can add other styles
+// $nav-link-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+//   border-color 0.15s ease-in-out;
+// $nav-link-disabled-color: $gray-600;
+
+// $nav-tabs-border-color: $gray-300;
+// $nav-tabs-border-width: $border-width;
+// $nav-tabs-border-radius: $border-radius;
+// $nav-tabs-link-hover-border-color: $gray-200 $gray-200 $nav-tabs-border-color;
+// $nav-tabs-link-active-color: $gray-700;
+// $nav-tabs-link-active-bg: $body-bg;
+// $nav-tabs-link-active-border-color: $gray-300 $gray-300 $nav-tabs-link-active-bg;
+
+// $nav-tabs-link-border-bottom-width: 2px;
+// $nav-tabs-link-font-weight: 500;
+// $nav-tabs-link-font-size: 12px;
+// $nav-tabs-link-padding-top: 17px;
+// $nav-tabs-link-padding-bottom: 16px;
+// $nav-tabs-link-padding-x: 29px;
+// $nav-tabs-link-hover-background-color: hsl(0, 0%, 96%);
+// $nav-tabs-link-active-color: $primary;
+// $nav-tabs-link-active-border-color: $primary;
+
+// $nav-tabs-link-color: rgba(0, 0, 0, 0.55);
+// $nav-tabs-link-hover-bgc: hsl(249, 80%, 42%), 80%, 42%;
+
+
+
+.nav-link.active.cc{
+    color: black !important;
+    background-color:yellow !important; 
+    border-color:none !important;
+    border-top: 3px solid yellow !important;
+    
+}
+
+.nav-link.cc:hover{
+    background-color:yellow !important;
+}
+
+.nav-link.cc{
+    color: grey !important;
+    background-color: white !important;
+    border-color:none !important;
+    border-top: 3px solid yellow !important;}
+
+.nav-link.active.cd{
+        color: black !important;
+        background-color:white !important; 
+        border-color:none !important;
+        border-bottom: 3px solid yellow !important;
+        
+    }
+.nav-link.cd{
+        color: grey !important;
+        background-color: white !important;
+        border-color:none !important;
+        border-bottom: 3px solid grey !important;}
+    
+.nav-link.cd:hover{
+    color:black !important;
+    border-bottom: 3px solid yellow !important;
+}

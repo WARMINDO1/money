@@ -1,0 +1,44 @@
+// Here you can add other styles
+// .custom-tab.active {
+//     background: transparent !important;
+//     color: white !important;
+//     border-bottom: 2px solid yellow !important;
+//     border-radius: 0px !important;
+// }
+
+.nav-link.active.cc{
+    color: black !important;
+    background-color:yellow !important; 
+    border-color:none !important;
+    border-top: 3px solid yellow !important;
+    
+}
+
+.nav-link.cc:hover{
+    background-color:yellow !important;
+}
+
+.nav-link.cc{
+    color: grey !important;
+    background-color: white !important;
+    border-color:none !important;
+    border-top: 3px solid yellow !important;
+}
+
+.nav-link.active.cd{
+    color: black !important;
+    background-color:white !important; 
+    border-color:none !important;
+    border-bottom: 3px solid yellow !important;
+    
+}
+.nav-link.cd{
+    color: grey !important;
+    background-color: white !important;
+    border-color:none !important;
+    border-bottom: 3px solid grey !important;}
+
+.nav-link.cd:hover{
+color:black !important;
+border-bottom: 3px solid yellow !important;
+}
